@@ -1,17 +1,17 @@
 # Main-Page-html
 A simple page designed with HTML for the main page
 
-### [download link](https://github.com/amir0026a/Main-Page-html/archive/refs/heads/main.zip)
+### [download link](https://github.com/amirdecoder/Main-Page-html/archive/refs/heads/main.zip)
 
-<a href="https://github.com/amir0026a">
+<a href="https://github.com/amirdecoder">
 <img src="https://s20.picofile.com/file/8443137934/page_html.png"></a>
 
 
  ### Stay in touch
  ___
  > Click on the name of the social network you want to contact me 👇
--  [Telegram](http://t.me/amir0026a)
--  [Instagram](http://instagram.com/amir0026_a)
+-  [Telegram](http://t.me/amirdecoder)
+-  [Instagram](http://instagram.com/amirdecoder)
 -  [Whatsapp](http://wa.me/message/D3VOL2BRUSPIE1)
 -  [Discord](http://discord.gg/T4JytppwT8)
 
